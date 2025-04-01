@@ -14,3 +14,4 @@ dsafdsaf hot-fix test 1
 666
 hotfix2
 master Test2
+hotfixTest
